@@ -2,7 +2,7 @@
 title: "Coffee"
 hidemeta: flase
 ShowBreadCrumbs: false
-comments: false
+comments: true
 ---
 
 请我喝一杯咖啡~
