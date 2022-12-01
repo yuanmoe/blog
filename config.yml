@@ -47,8 +47,8 @@ params:
     imageTitle: avatar
 
   socialIcons:
-    - name: "discord"
-      url: "https://discord.gg/3VsvJh2ZTD"
+    - name: github
+      url: "https://github.com/yuanmoe"
     - name: "rss"
       url: "/index.xml"
 
