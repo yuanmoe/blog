@@ -1,0 +1,35 @@
+<script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
+<div id="waline"></div>
+<script>
+  Waline.init({
+    el: '#waline',
+    lang: 'zh-CN',
+    serverURL: 'https://waline.yuanmoe.com',
+    copyright: false,
+    login: 'force',
+    dark: '.dark',
+    imageUploader: false,
+    emoji: [],
+    locale: {
+      admin: '🎉',
+      placeholder: '根据互联网跟帖评论服务管理规定，请登录后进行评论，评论内容将在审核后展示。',
+    },
+  });
+</script>
+<style>
+  :root {
+    --waline-theme-color: #FF4C00;
+    --waline-active-color: #FF2121;
+  }
+  .verified-icon,.wl-action {
+    display: none !important;
+  }
+  .wl-badge{
+    border:0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+  }
+  .wl-nick{
+    margin-right: 0.3em !important;
+  }
+</style>

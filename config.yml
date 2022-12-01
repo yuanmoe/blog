@@ -1,0 +1,90 @@
+baseURL: "https://yuanmoe.com/"
+LanguageCode: zh-cn
+theme: PaperMod
+title: YuanMoe
+paginate: 5
+
+buildDrafts: false
+buildExpired: false
+buildFuture: false
+enableEmoji: true
+enableRobotsTXT: true
+
+permalinks:
+  posts: posts/:filename
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  DateFormat: "January 2, 2006"
+  author: YuanMoe
+  description: "多远才算是离开的距离"
+  images: ["favicon.svg"]
+  title: YuanMoe
+  comments: true
+  disableScrollToTop: false
+  hideFooter: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  defaultTheme: auto
+
+  assets:
+    disableHLJS: true
+    favicon: "favicon.ico"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "apple-touch-icon-precomposed.png"
+
+  profileMode:
+    enabled: true
+    title: "YuanMoe"
+    subtitle: "多远才算是离开的距离"
+    imageUrl: "favicon.svg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: avatar
+
+  socialIcons:
+    - name: "discord"
+      url: "https://discord.gg/3VsvJh2ZTD"
+    - name: "rss"
+      url: "/index.xml"
+
+menu:
+  main:
+    - identifier: search
+      name: 搜索
+      url: /search/
+      weight: 10
+    - identifier: posts
+      name: 文章
+      url: /posts/
+      weight: 20
+    - identifier: archives
+      name: 归档
+      url: /archives/
+      weight: 30
+    - identifier: comments
+      name: 留言
+      url: /comments/
+      weight: 40
+    - identifier: about
+      name: 关于
+      url: /about/
+      weight: 50
+    - identifier: friends
+      name: 友人
+      url: /links/
+      weight: 60
+
+privacy:
+  youtube:
+    privacyEnhanced: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
