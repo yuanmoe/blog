@@ -49,6 +49,8 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/yuanmoe"
+    - name: kofi
+      url: "/coffee/"
     - name: "rss"
       url: "/index.xml"
 

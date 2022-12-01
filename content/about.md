@@ -8,7 +8,7 @@ comments: false
 
 ## YuanMoe
 * 全称：Yuan Moe
-* 含义：Yuan  *[原](https://baike.baidu.com/item/原)*  ，Moe  *[萌](https://baike.baidu.com/item/moe)* 
+* 含义：Yuan [ [原](https://baike.baidu.com/item/原) ]，Moe [ [萌](https://baike.baidu.com/item/moe) ]
 * 域名：yuanmoe.com，yuanmoe.cn
 
 ## 网站
@@ -18,6 +18,10 @@ comments: false
 * 评论: [Waline](https://waline.js.org/)
 * 持续集成：[Vercel](https://vercel.com/)
 * 内容分发网络：[Cloudflare](https://cloudflare.com/) (弃用)
+
+## 捐助
+
+请转到 [捐助页面](/coffee/)
 
 ## 联络
 
