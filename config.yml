@@ -63,22 +63,31 @@ menu:
       name: 文章
       url: /posts/
       weight: 20
+    - identifier: categories
+      name: 分类
+      url: /categories/
+      weight: 30
+    - identifier: tags
+      name: 标签
+      url: /tags/
+      weight: 40
     - identifier: archives
       name: 归档
       url: /archives/
-      weight: 30
+      weight: 50
     - identifier: comments
       name: 留言
       url: /comments/
-      weight: 40
-    - identifier: about
-      name: 关于
-      url: /about/
-      weight: 50
+      weight: 60
     - identifier: friends
       name: 友人
       url: /links/
-      weight: 60
+      weight: 70
+    - identifier: about
+      name: 关于
+      url: /about/
+      weight: 80
+    
 
 privacy:
   youtube:
