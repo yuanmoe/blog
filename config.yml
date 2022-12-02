@@ -50,9 +50,9 @@ params:
     - name: github
       url: "https://github.com/yuanmoe"
     - name: kofi
-      url: "/coffee/"
+      url: "https://yuanmoe.com/coffee/"
     - name: "rss"
-      url: "/index.xml"
+      url: "https://yuanmoe.com/index.xml"
 
 menu:
   main:
