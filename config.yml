@@ -4,6 +4,12 @@ theme: PaperMod
 title: YuanMoe
 paginate: 5
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
 buildDrafts: false
 buildExpired: false
 buildFuture: false
@@ -55,38 +61,34 @@ params:
 
 menu:
   main:
-    - identifier: search
-      name: 搜索
-      url: /search/
-      weight: 10
     - identifier: posts
-      name: 文章
+      name: Posts
       url: /posts/
+      weight: 10
+    - identifier: search
+      name: Search
+      url: /search/
       weight: 20
-    - identifier: categories
-      name: 分类
-      url: /categories/
-      weight: 30
     - identifier: tags
-      name: 标签
+      name: Tags
       url: /tags/
-      weight: 40
+      weight: 30
     - identifier: archives
-      name: 归档
+      name: Archives
       url: /archives/
-      weight: 50
+      weight: 40
     - identifier: comments
-      name: 留言
+      name: Comments
       url: /comments/
-      weight: 60
+      weight: 50
     - identifier: friends
-      name: 友人
+      name: Friends
       url: /links/
-      weight: 70
+      weight: 60
     - identifier: about
-      name: 关于
+      name: About
       url: /about/
-      weight: 80
+      weight: 70
     
 
 privacy:
