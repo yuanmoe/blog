@@ -25,7 +25,6 @@ params:
   images: ["favicon.svg"]
   title: YuanMoe
   comments: true
-  disableScrollToTop: false
   hideFooter: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
