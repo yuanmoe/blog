@@ -9,7 +9,6 @@ markup:
     renderer:
       unsafe: true
 
-
 buildDrafts: false
 buildExpired: false
 buildFuture: false
@@ -31,7 +30,6 @@ params:
   images: ["favicon.svg"]
   title: YuanMoe
   comments: true
-  hideFooter: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   defaultTheme: auto
