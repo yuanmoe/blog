@@ -13,6 +13,7 @@ comments: false
 
 ## 网站
 
+* 参考：[ĀKURAI's](https://404gle.cn/)
 * 生成器：[HUGO](https://gohugo.io/)
 * 主题：[PaperMod](https://adityatelange.github.io/hugo-PaperMod)
 * 评论: [Waline](https://waline.js.org/)
