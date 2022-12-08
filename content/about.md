@@ -13,7 +13,7 @@ comments: false
 
 ## 网站
 
-* 参考：[ĀKURAI's](https://404gle.cn/)
+* 参考：[ĀKURAI's](https://404gle.cn/) <cite>[^1]</cite>
 * 生成器：[HUGO](https://gohugo.io/)
 * 主题：[PaperMod](https://adityatelange.github.io/hugo-PaperMod)
 * 评论: [Waline](https://waline.js.org/)
@@ -28,5 +28,10 @@ comments: false
 
 邮箱：blog:at:yuanmoe.com
 
+## 版权声明
+
+本站所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer me">CC BY-NC-SA 4.0</a> 许可协议。转载请注明出处！
 
 
+
+[^1]: 关于和友链页面有所参考。
