@@ -29,6 +29,7 @@ params:
   description: "多远才算是离开的距离"
   images: ["favicon.svg"]
   title: YuanMoe
+  hideFooter: true
   comments: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
@@ -53,7 +54,7 @@ params:
     - name: github
       url: "https://github.com/yuanmoe"
     - name: kofi
-      url: "https://blog.yuanmoe.com/coffee/"
+      url: "/coffee/"
     - name: "rss"
       url: "https://blog.yuanmoe.com/index.xml"
 
