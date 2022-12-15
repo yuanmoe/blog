@@ -9,7 +9,7 @@ comments: false
 ## YuanMoe
 * 全称：Yuan Moe
 * 含义：Yuan [ [原](https://baike.baidu.com/item/原) ]，Moe [ [萌](https://baike.baidu.com/item/moe) ]
-* 域名：yuanmoe.com，yuanmoe.cn
+* 域名：yuanmoe.com
 
 ## 网站
 

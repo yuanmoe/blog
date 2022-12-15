@@ -32,8 +32,8 @@ None
 
 * 博客：YuanMoe
 * BIO：多远才算是离开的距离
-* 链接：[https://yuanmoe.com/](https://yuanmoe.com/)
-* 头像：[https://yuanmoe.com/avatar.png](https://yuanmoe.com/avatar.png)  (200*200)
-* LOGO：[https://yuanmoe.com/favicon.svg](https://yuanmoe.com/favicon.svg)  (200*200)
+* 链接：[https://blog.yuanmoe.com/](https://blog.yuanmoe.com/)
+* 头像：[https://blog.yuanmoe.com/avatar.png](https://blog.yuanmoe.com/avatar.png)  (200*200)
+* LOGO：[https://blog.yuanmoe.com/favicon.svg](https://blog.yuanmoe.com/favicon.svg)  (200*200)
 
 添加完友链后请在评论区留言或发送邮件至 blog:at:yuanmoe.com

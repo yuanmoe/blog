@@ -1,4 +1,4 @@
-baseURL: "https://yuanmoe.com/"
+baseURL: "https://blog.yuanmoe.com/"
 LanguageCode: zh-cn
 theme: PaperMod
 title: YuanMoe
@@ -53,9 +53,9 @@ params:
     - name: github
       url: "https://github.com/yuanmoe"
     - name: kofi
-      url: "https://yuanmoe.com/coffee/"
+      url: "https://blog.yuanmoe.com/coffee/"
     - name: "rss"
-      url: "https://yuanmoe.com/index.xml"
+      url: "https://blog.yuanmoe.com/index.xml"
 
 menu:
   main:
