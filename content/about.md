@@ -27,8 +27,7 @@ comments: false
 ## 联络
 
 * 邮箱：blog:at:yuanmoe.com
-* OpenGPG： YuanHao admin:at:yuanmoe.com
-   [公钥地址](/YuanHao_0x60610026_public.txt)
+* OpenGPG： YuanHao admin:at:yuanmoe.com [公钥地址](/YuanHao_0x129C1896_public.txt)
 
 ## 版权声明
 
