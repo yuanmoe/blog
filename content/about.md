@@ -22,11 +22,13 @@ comments: false
 
 ## 捐助
 
-请转到 [捐助页面](/coffee/)
+* 请转到 [捐助页面](/coffee/)
 
 ## 联络
 
-邮箱：blog:at:yuanmoe.com
+* 邮箱：blog:at:yuanmoe.com
+* OpenGPG： YuanHao admin:at:yuanmoe.com
+   [公钥地址](/YuanHao_0x60610026_public.txt)
 
 ## 版权声明
 
